@@ -1,0 +1,275 @@
+[
+  {
+    "file": "/mnt/d/Mike/Videos/Movies/Letters From Iwo Jima.mp4",
+    "codec_name": "h264",
+    "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+    "width": 480,
+    "height": 320,
+    "sample_rate": null,
+    "channels": null
+  },
+  {
+    "file": "/mnt/d/Mike/Videos/Movies/PBS.Independant.Lens.2013.The.Revisionaries.540p.x264.AAC.MVGroup.org.mp4",
+    "codec_name": "h264",
+    "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+    "width": 960,
+    "height": 540,
+    "sample_rate": null,
+    "channels": null
+  },
+  {
+    "file": "/mnt/d/Mike/Videos/Movies/Saving Private Ryan.mp4",
+    "codec_name": "h264",
+    "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+    "width": 480,
+    "height": 320,
+    "sample_rate": null,
+    "channels": null
+  },
+  {
+    "file": "/mnt/d/Mike/Videos/Movies/The Patriot.mp4",
+    "codec_name": "h264",
+    "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+    "width": 480,
+    "height": 320,
+    "sample_rate": null,
+    "channels": null
+  },
+  {
+    "file": "/mnt/d/Mike/Videos/Movies/The Princess Bride (1987) 720p 5.1 BRRiP x264 AAC [Team Nanban].mp4",
+    "codec_name": "h264",
+    "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+    "width": 1280,
+    "height": 692,
+    "sample_rate": null,
+    "channels": null
+  },
+  {
+    "file": "/mnt/d/Mike/Videos/Movies/The.Hobbit.An.Unexpected.Journey.2012.720p.BRrip.x264.GAZ.YIFY.mp4",
+    "codec_name": "h264",
+    "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+    "width": 1280,
+    "height": 536,
+    "sample_rate": null,
+    "channels": null
+  },
+  {
+    "file": "/mnt/d/Mike/Videos/Movies/The.Hobbit.The.Desolation.of.Smaug.2013.720p.BluRay.x264.YIFY.mp4",
+    "codec_name": "h264",
+    "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+    "width": 1280,
+    "height": 534,
+    "sample_rate": null,
+    "channels": null
+  },
+  {
+    "file": "/mnt/d/Mike/Videos/Movies/Thor.The.Dark.World.2013.720p.BluRay.x264.YIFY.mp4",
+    "codec_name": "h264",
+    "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+    "width": 1280,
+    "height": 528,
+    "sample_rate": null,
+    "channels": null
+  },
+  {
+    "file": "/mnt/d/Mike/Videos/Movies/Alice in Wonderland.avi",
+    "codec_name": "mpeg4",
+    "codec_long_name": "MPEG-4 part 2",
+    "width": 608,
+    "height": 336,
+    "sample_rate": null,
+    "channels": null
+  },
+  {
+    "file": "/mnt/d/Mike/Videos/Movies/Burn After Reading.avi",
+    "codec_name": "mpeg4",
+    "codec_long_name": "MPEG-4 part 2",
+    "width": 616,
+    "height": 322,
+    "sample_rate": null,
+    "channels": null
+  },
+  {
+    "file": "/mnt/d/Mike/Videos/Movies/Enemy at the Gates.avi",
+    "codec_name": "msmpeg4v3",
+    "codec_long_name": "MPEG-4 part 2 Microsoft variant version 3",
+    "width": 560,
+    "height": 240,
+    "sample_rate": null,
+    "channels": null
+  },
+  {
+    "file": "/mnt/d/Mike/Videos/Movies/Expelled.No.Intelligence.Allowed.DVDRip.XviD.avi",
+    "codec_name": "mpeg4",
+    "codec_long_name": "MPEG-4 part 2",
+    "width": 624,
+    "height": 352,
+    "sample_rate": null,
+    "channels": null
+  },
+  {
+    "file": "/mnt/d/Mike/Videos/Movies/Indiana Jones and the Last Crusade.avi",
+    "codec_name": "mpeg4",
+    "codec_long_name": "MPEG-4 part 2",
+    "width": 720,
+    "height": 320,
+    "sample_rate": null,
+    "channels": null
+  },
+  {
+    "file": "/mnt/d/Mike/Videos/Movies/Indiana Jones and the Raiders of the Lost Arc.avi",
+    "codec_name": "mpeg4",
+    "codec_long_name": "MPEG-4 part 2",
+    "width": 720,
+    "height": 320,
+    "sample_rate": null,
+    "channels": null
+  },
+  {
+    "file": "/mnt/d/Mike/Videos/Movies/Indiana Jones and the Temple of Doom.avi",
+    "codec_name": "mpeg4",
+    "codec_long_name": "MPEG-4 part 2",
+    "width": 720,
+    "height": 304,
+    "sample_rate": null,
+    "channels": null
+  },
+  {
+    "file": "/mnt/d/Mike/Videos/Movies/Juno.avi",
+    "codec_name": "mpeg4",
+    "codec_long_name": "MPEG-4 part 2",
+    "width": 592,
+    "height": 320,
+    "sample_rate": null,
+    "channels": null
+  },
+  {
+    "file": "/mnt/d/Mike/Videos/Movies/Kung Fu Panda.avi",
+    "codec_name": "mpeg4",
+    "codec_long_name": "MPEG-4 part 2",
+    "width": 700,
+    "height": 292,
+    "sample_rate": null,
+    "channels": null
+  },
+  {
+    "file": "/mnt/d/Mike/Videos/Movies/Mulan.avi",
+    "codec_name": "msmpeg4v3",
+    "codec_long_name": "MPEG-4 part 2 Microsoft variant version 3",
+    "width": 720,
+    "height": 480,
+    "sample_rate": null,
+    "channels": null
+  },
+  {
+    "file": "/mnt/d/Mike/Videos/Movies/Plan 9 From Outer Space (1959).avi",
+    "codec_name": "mpeg4",
+    "codec_long_name": "MPEG-4 part 2",
+    "width": 608,
+    "height": 400,
+    "sample_rate": null,
+    "channels": null
+  },
+  {
+    "file": "/mnt/d/Mike/Videos/Movies/Primer.avi",
+    "codec_name": "mpeg4",
+    "codec_long_name": "MPEG-4 part 2",
+    "width": 608,
+    "height": 336,
+    "sample_rate": null,
+    "channels": null
+  },
+  {
+    "file": "/mnt/d/Mike/Videos/Movies/The Boondock Saints II All Saints Day.avi",
+    "codec_name": "mpeg4",
+    "codec_long_name": "MPEG-4 part 2",
+    "width": 640,
+    "height": 256,
+    "sample_rate": null,
+    "channels": null
+  },
+  {
+    "file": "/mnt/d/Mike/Videos/Movies/The Boondock Saints.avi",
+    "codec_name": "mpeg4",
+    "codec_long_name": "MPEG-4 part 2",
+    "width": 496,
+    "height": 368,
+    "sample_rate": null,
+    "channels": null
+  },
+  {
+    "file": "/mnt/d/Mike/Videos/Movies/The Hangover.avi",
+    "codec_name": "mpeg4",
+    "codec_long_name": "MPEG-4 part 2",
+    "width": 640,
+    "height": 272,
+    "sample_rate": null,
+    "channels": null
+  },
+  {
+    "file": "/mnt/d/Mike/Videos/Movies/The Haunting in Connecticut[2009][Unrated Edition]DvDrip[Eng]-FXG.avi",
+    "codec_name": "mpeg4",
+    "codec_long_name": "MPEG-4 part 2",
+    "width": 672,
+    "height": 272,
+    "sample_rate": null,
+    "channels": null
+  },
+  {
+    "file": "/mnt/d/Mike/Videos/Movies/The Rocky Horror Picture Show Extended Edition.avi",
+    "codec_name": "mpeg4",
+    "codec_long_name": "MPEG-4 part 2",
+    "width": 576,
+    "height": 352,
+    "sample_rate": null,
+    "channels": null
+  },
+  {
+    "file": "/mnt/d/Mike/Videos/Movies/the wolfman (1941) lon chaney jr.avi"
+  },
+  {
+    "file": "/mnt/d/Mike/Videos/Movies/Timer.avi",
+    "codec_name": "mpeg4",
+    "codec_long_name": "MPEG-4 part 2",
+    "width": 672,
+    "height": 352,
+    "sample_rate": null,
+    "channels": null
+  },
+  {
+    "file": "/mnt/d/Mike/Videos/Movies/Tron.avi",
+    "codec_name": "mpeg4",
+    "codec_long_name": "MPEG-4 part 2",
+    "width": 640,
+    "height": 288,
+    "sample_rate": null,
+    "channels": null
+  },
+  {
+    "file": "/mnt/d/Mike/Videos/Movies/Up.avi",
+    "codec_name": "mpeg4",
+    "codec_long_name": "MPEG-4 part 2",
+    "width": 640,
+    "height": 352,
+    "sample_rate": null,
+    "channels": null
+  },
+  {
+    "file": "/mnt/d/Mike/Videos/Movies/Blackhawk Down/Black Hawk Down part 1.avi",
+    "codec_name": "mpeg4",
+    "codec_long_name": "MPEG-4 part 2",
+    "width": 528,
+    "height": 224,
+    "sample_rate": null,
+    "channels": null
+  },
+  {
+    "file": "/mnt/d/Mike/Videos/Movies/Blackhawk Down/Black Hawk Down part 2.avi",
+    "codec_name": "mpeg4",
+    "codec_long_name": "MPEG-4 part 2",
+    "width": 528,
+    "height": 224,
+    "sample_rate": null,
+    "channels": null
+  }
+]
