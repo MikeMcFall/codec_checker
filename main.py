@@ -51,13 +51,10 @@ def gather_codec_report(directory, extensions=("*.mp4", "*.mov", "*.mkv", "*.avi
 
     return report
 
-def save_report(report, output_path="codec_report.json"):
-    with open(output_path, "w") as report_file:
-        json.dump(report, report_file, indent=2)
-
 if __name__ == "__main__":
-    target_directory = sys.argv[1] #"/mnt/d/Mike/Videos/Movies"  # change this to your folder
+    target_directory = sys.argv[1] 
     codec_report = gather_codec_report(target_directory)
     df = pd.DataFrame(codec_report)
-    df.to_excel(target_directory + '/codecs.xlsx')
-    save_report(codec_report)
+    excel_path = target_directory + '/codecs.xlsx'
+    df.to_excel(excel_path)
+    print(f"Report saved to {excel_path}")
